@@ -2,3 +2,4 @@ mysql mysql
 first insert
 second insert
 windows insert
+linux insert
