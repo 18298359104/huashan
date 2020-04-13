@@ -1,4 +1,2 @@
 mysql mysql
-test push repo
-test pull
-remote repo insert
+first insert
