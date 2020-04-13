@@ -3,4 +3,4 @@ first insert
 second insert
 windows insert update
 linux insert
-test ssh
+test ssh  linux
